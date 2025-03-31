@@ -32,7 +32,7 @@ A sophisticated AI chatbot interface powered by LangChain and Gemma-2B, designed
 
 2. **Set up environment**:
    ```bash
-   git clone https://github.com/your-repo/enterprise-ai-assistant.git
+   git clone https://github.com/ddv2311/Streamlit-Chatbot-langchain.git
    cd enterprise-ai-assistant
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
